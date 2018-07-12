@@ -1,0 +1,26 @@
+{
+  "name": "fullstackreact",
+  "version": "1.0.0",
+  "description": "udemy course example",
+  "main": "index.js",
+  "engines": {
+    "node": "8.1.1",
+    "npm": "5.0.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briarlane/fullstackreact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briarlane/fullstackreact/issues"
+  },
+  "homepage": "https://github.com/briarlane/fullstackreact#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
